@@ -1,0 +1,22 @@
+body {
+		background-image: url("images/Gate.jpg");
+}
+
+#heading_box {
+	border-width: 2px;
+	border-style: solid;
+	text-align: center;
+	background-color: yellow;
+	color: blue;
+	font-size: 100px;
+}
+
+.newbuilding {
+	text-align: center;
+}
+
+.row {
+	text-align: center;
+	border-width: 2px;
+	border-style: solid;
+}
